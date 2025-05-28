@@ -12,7 +12,11 @@ Like traditional dynamic linkers, ld-agent:
 - **Links symbols** (AI tools/functions) for execution
 - **Manages the runtime environment** for loaded capabilities
 
-This enables truly modular AI systems where capabilities can be mixed, matched, and composed dynamically - no recompilation required.
+This enables truly modular AI systems where capabilities can be mixed, matched, and composed dynamically.
+
+* New framework got released? Hook ld-agent up to continue where you left off!
+* Moving MCP servers? Your functionality is portable and requires minimal refactoring!
+* You're vibe-coding all manner of weird integrations? Hand the spec to your coding agent and watch it fly!
 
 ## Language Implementations
 
