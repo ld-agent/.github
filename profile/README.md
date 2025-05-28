@@ -4,7 +4,7 @@
 
 ld-agent is a dynamic linker for AI capabilities - think `ld-so` but for agentic systems instead of shared libraries. Just as `ld-so` discovers, loads, and links shared objects at runtime to create executable programs, ld-agent discovers, loads, and links agentic capabilities at runtime to create composable AI systems.
 
-![ld-agent Logo](docs/logo.jpg)
+![ld-agent Logo](logo.jpg)
 
 ## What is ld-agent?
 
