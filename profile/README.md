@@ -235,7 +235,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Community
 
 - 🐛 [Report Issues](https://github.com/ld-agent/.github/issues)
-- 💬 [Discussions](https://github.com/ld-agent/.github/discussions)
+- 💬 [Discussions](https://github.com/orgs/ld-agent/discussions)
 
 ---
 
