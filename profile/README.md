@@ -18,21 +18,19 @@ ld-agent enables truly modular AI systems where capabilities can be mixed, match
 
 ## Getting Started
 
-- 📚 Read the [Documentation](./ld-agent-spec/docs/) for guides and tutorials
-- 🔍 Review the [Specification](./ld-agent-spec/) for protocol details
+- 🔍 Review the [Specification](https://github.com/ld-agent/ld-agent-spec) for protocol details
 - 💻 Use our implementations to start building:
-  - [Python SDK](./ld-agent-python/) - `pip install ld-agent`
-  - [Go SDK](./ld-agent-go/) - `go get github.com/your-org/ld-agent-go`
-  - [TypeScript SDK](./ld-agent-typescript/) - `npm install ld-agent`
+  - [Python SDK](https://github.com/ld-agent/ld-agent-python) - `pip install ld-agent`
+  - [Go SDK](https://github.com/ld-agent/ld-agent-go) - `go get github.com/your-org/ld-agent-go`
+  - [TypeScript SDK](https://github.com/ld-agent/ld-agent-typescript) - `npm install ld-agent`
 
 ## Project Structure
 
-- [ld-agent-spec](./ld-agent-spec/) - Protocol specification and documentation
-- [ld-agent-python](./ld-agent-python/) - Python implementation
-- [ld-agent-go](./ld-agent-go/) - Go implementation  
-- [ld-agent-typescript](./ld-agent-typescript/) - TypeScript implementation
-- [ld-agent-plugins](./ld-agent-plugins/) - Plugin collection and templates
-- [ld-agent-examples](./ld-agent-examples/) - Example implementations and use cases
+- [ld-agent-spec](https://github.com/ld-agent/ld-agent-spec) - Protocol specification and documentation
+- [ld-agent-python](https://github.com/ld-agent/ld-agent-python) - Python implementation
+- [ld-agent-go](https://github.com/ld-agent/ld-agent-go) - Go implementation  
+- [ld-agent-typescript](https://github.com/ld-agent/ld-agent-typescript) - TypeScript implementation
+- [ld-agent-plugins](https://github.com/ld-agent/ld-agent-plugins) - Plugin collection and templates
 - [ld-agent-rfcs](./ld-agent-rfcs/) - Request for Comments and proposals
 
 ## Use Cases
